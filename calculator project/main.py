@@ -31,8 +31,6 @@ def remove():
     text_result.insert(1.0, calculation)
 
 
-
-
 root = tk.Tk()
 root.title("Calculator")
 root.geometry("300x275")
@@ -96,6 +94,5 @@ btn_equal.grid(row=6, column=3, columnspan=2)
 
 btn_del = tk.Button(root, text="DEL", command=remove, width=11, font=("Arial", 14))
 btn_del.grid(row=7, column=1, columnspan=5)
-
 
 root.mainloop()
