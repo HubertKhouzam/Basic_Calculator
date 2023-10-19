@@ -1,3 +1,6 @@
 # Basic_Calculator
+Personal project program
 
-Simple beginner projet, used python for the UI, with the tkinter library, and the backend.
+Created using python and the tkinter library for the UI
+
+Calculator with the basic arthemtic operations 
