@@ -1,6 +1,7 @@
 # Basic_Calculator
-Personal project program
+## Description
+Calculator with basic arithmetic operations
 
-Created using python and the tkinter library for the UI
-
-Calculator with the basic arithmetic operations 
+## Prerequisits
+- Python
+- Tkinter library
